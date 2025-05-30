@@ -8,6 +8,8 @@ Parcial
 # Proyectos:
 
 # 1. Proyecto Pokemon 
+Desarrollos innovadores:
+
 
 # 2. Proyecto Parqueadero
 Desarrollos innovadores:
